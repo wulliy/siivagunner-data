@@ -65,7 +65,7 @@
 | [3VfJYnuIOdo](https://www.youtube.com/watch?v=3VfJYnuIOdo) | [Tachiagari Yo - Inazuma Eleven](https://siivagunner.fandom.com/wiki/Tachiagari_Yo_-_Inazuma_Eleven) | based |
 | [Ifju3-edJi0](https://www.youtube.com/watch?v=Ifju3-edJi0) | [Demo Disc - Robbie Rotten's Ice Cream Stand](https://siivagunner.fandom.com/wiki/Demo_Disc_-_Robbie_Rotten's_Ice_Cream_Stand) | based |
 | [qTneWV-wqQ4](https://www.youtube.com/watch?v=qTneWV-wqQ4) | [Driftveil City (Beta Edition) - Pokémon Black & White 2](https://siivagunner.fandom.com/wiki/Driftveil_City_(Beta_Edition)_-_Pokémon_Black_&_White_2) | based |
-| [kNlKQEMHUvg](https://www.youtube.com/watch?v=kNlKQEMHUvg) | [A Few Musical Notes from Game Developer Toby Fox | #PokemonSwordShield](https://siivagunner.fandom.com/wiki/A_Few_Musical_Notes_from_Game_Developer_Toby_Fox_|_#PokemonSwordShield) | based |
+| [kNlKQEMHUvg](https://www.youtube.com/watch?v=kNlKQEMHUvg) | [A Few Musical Notes from Game Developer Toby Fox \| #PokemonSwordShield](https://siivagunner.fandom.com/wiki/A_Few_Musical_Notes_from_Game_Developer_Toby_Fox_PokemonSwordShield) | based |
 | [_42-k6Pg8sg](https://www.youtube.com/watch?v=_42-k6Pg8sg) | [Super Mario Bros. Music - Athletic (Unused) (Original Mix)](https://siivagunner.fandom.com/wiki/Super_Mario_Bros._Music_-_Athletic_(Unused)_(Original_Mix)) | based |
 | [eqOx5usoXcU](https://www.youtube.com/watch?v=eqOx5usoXcU) | [Main Theme (Removed Version) - Griddy](https://siivagunner.fandom.com/wiki/Main_Theme_(Removed_Version)_-_Griddy) | based |
 | [2IzS3b47WCU](https://www.youtube.com/watch?v=2IzS3b47WCU) | [M.U.L.E (Bitblaster Mix) (Beta Mix) - ROBLOX](https://siivagunner.fandom.com/wiki/M.U.L.E_(Bitblaster_Mix)_(Beta_Mix)_-_ROBLOX) | based |
@@ -275,7 +275,7 @@
 | [jRKR8fDaLZo](https://www.youtube.com/watch?v=jRKR8fDaLZo) | [We No Speak Americano (Alpha Mix) - DJ Hero 2](https://siivagunner.fandom.com/wiki/We_No_Speak_Americano_(Alpha_Mix)_-_DJ_Hero_2) | based |
 | [XueOZJXOWmc](https://www.youtube.com/watch?v=XueOZJXOWmc) | [Stal (Alpha Mix) - Minecraft](https://siivagunner.fandom.com/wiki/Stal_(Alpha_Mix)_-_Minecraft) | based |
 | [SSWLkZc1OzI](https://www.youtube.com/watch?v=SSWLkZc1OzI) | [Wet Hands (Beta Mix) - Minecraft](https://siivagunner.fandom.com/wiki/Wet_Hands_(Beta_Mix)_-_Minecraft) | based |
-| [outUOFhmv-s](https://www.youtube.com/watch?v=outUOFhmv-s) | [Groove Rush #1 - Sonic Rush](https://siivagunner.fandom.com/wiki/Groove_Rush_#1_-_Sonic_Rush) | based |
+| [outUOFhmv-s](https://www.youtube.com/watch?v=outUOFhmv-s) | [Groove Rush #1 - Sonic Rush](https://siivagunner.fandom.com/wiki/Groove_Rush_1_-_Sonic_Rush) | based |
 | [ng3nKfj5KPI](https://www.youtube.com/watch?v=ng3nKfj5KPI) | [The Pousada - Mario & Sonic at the Rio 2016 Olympic Games](https://siivagunner.fandom.com/wiki/The_Pousada_-_Mario_&_Sonic_at_the_Rio_2016_Olympic_Games) | based |
 | [-kJkCT5vkkw](https://www.youtube.com/watch?v=-kJkCT5vkkw) | [Main Theme (Day 1 Patch) - Five Nights at Freddy's](https://siivagunner.fandom.com/wiki/Main_Theme_(Day_1_Patch)_-_Five_Nights_at_Freddy's) | based |
 | [w92Jz26IBVQ](https://www.youtube.com/watch?v=w92Jz26IBVQ) | [Circus (Insert Mix Here) - Five Nights at Freddy's](https://siivagunner.fandom.com/wiki/Circus_(Insert_Mix_Here)_-_Five_Nights_at_Freddy's) | based |
@@ -655,7 +655,7 @@
 | [RGZRLwdEXcg](https://www.youtube.com/watch?v=RGZRLwdEXcg) | [Friendship (Nintendo Switch Version) - Deltarune](https://siivagunner.fandom.com/wiki/Friendship_(Nintendo_Switch_Version)_-_Deltarune) | based |
 | [Q3FsPXatKrk](https://www.youtube.com/watch?v=Q3FsPXatKrk) | [Overworld (Edit) (Super Mario 3D World) (OST Version) - Super Mario Maker 2](https://siivagunner.fandom.com/wiki/Overworld_(Edit)_(Super_Mario_3D_World)_(OST_Version)_-_Super_Mario_Maker_2) | based |
 | [oLWP9epP1s4](https://www.youtube.com/watch?v=oLWP9epP1s4) | [Wario's Gold Mine (OST Version) - Mario Kart Wii](https://siivagunner.fandom.com/wiki/Wario's_Gold_Mine_(OST_Version)_-_Mario_Kart_Wii) | based |
-| [jc5PdgPMKLk](https://www.youtube.com/watch?v=jc5PdgPMKLk) | [#$@%* Dudes Be #$@%* Sleepin (Short Version) - Splatoon 2: Octo Expansion](https://siivagunner.fandom.com/wiki/#$@%*_Dudes_Be_#$@%*_Sleepin_(Short_Version)_-_Splatoon_2:_Octo_Expansion) | based |
+| [jc5PdgPMKLk](https://www.youtube.com/watch?v=jc5PdgPMKLk) | [#$@%* Dudes Be #$@%* Sleepin (Short Version) - Splatoon 2: Octo Expansion](https://siivagunner.fandom.com/wiki/$@%*_Dudes_Be_$@%*_Sleepin_(Short_Version)_-_Splatoon_2:_Octo_Expansion) | based |
 | [-t37Z1FkcGg](https://www.youtube.com/watch?v=-t37Z1FkcGg) | [Paralyzer - Rock Band 3](https://siivagunner.fandom.com/wiki/Paralyzer_-_Rock_Band_3) | based |
 | [ML7T6Z-phes](https://www.youtube.com/watch?v=ML7T6Z-phes) | [White Surf Style 6 (OST Version) - OMORI](https://siivagunner.fandom.com/wiki/White_Surf_Style_6_(OST_Version)_-_OMORI) | based |
 | [gjlIFlT3YUw](https://www.youtube.com/watch?v=gjlIFlT3YUw) | [Game with Rabbit (Beta Test) - Othello World](https://siivagunner.fandom.com/wiki/Game_with_Rabbit_(Beta_Test)_-_Othello_World) | based |
@@ -954,7 +954,7 @@
 | [Vk_BBYWISIA](https://www.youtube.com/watch?v=Vk_BBYWISIA) | [Adventure's End - Mario & Luigi: Dream Team Music](https://siivagunner.fandom.com/wiki/Adventure's_End_-_Mario_&_Luigi:_Dream_Team_Music) | based |
 | [sh6vyBtR87w](https://www.youtube.com/watch?v=sh6vyBtR87w) | [hwbouths - Bomb Rush Cyberfunk](https://siivagunner.fandom.com/wiki/hwbouths_-_Bomb_Rush_Cyberfunk) | based |
 | [SPAsA88aRFQ](https://www.youtube.com/watch?v=SPAsA88aRFQ) | [Kimi no Kioku - Persona 3](https://siivagunner.fandom.com/wiki/Kimi_no_Kioku_-_Persona_3) | based |
-| [JOhMz_biYBk](https://www.youtube.com/watch?v=JOhMz_biYBk) | [Unused #3 - Wario Land 4: Parallel World](https://siivagunner.fandom.com/wiki/Unused_#3_-_Wario_Land_4:_Parallel_World) | based |
+| [JOhMz_biYBk](https://www.youtube.com/watch?v=JOhMz_biYBk) | [Unused #3 - Wario Land 4: Parallel World](https://siivagunner.fandom.com/wiki/Unused_3_-_Wario_Land_4:_Parallel_World) | based |
 | [0sPOSnEvEhU](https://www.youtube.com/watch?v=0sPOSnEvEhU) | [Break the Targets - Super Smash Bros. Melee](https://siivagunner.fandom.com/wiki/Break_the_Targets_-_Super_Smash_Bros._Melee) | based |
 | [X25ePlzMmAs](https://www.youtube.com/watch?v=X25ePlzMmAs) | [Intrusions of Broadway - Broadway Legend Ellena](https://siivagunner.fandom.com/wiki/Intrusions_of_Broadway_-_Broadway_Legend_Ellena) | based |
 | [ofU38tcTly0](https://www.youtube.com/watch?v=ofU38tcTly0) | [Bonus 2 - Touch Detective](https://siivagunner.fandom.com/wiki/Bonus_2_-_Touch_Detective) | based |
@@ -1157,7 +1157,7 @@
 | [Vdlf868cI-w](https://www.youtube.com/watch?v=Vdlf868cI-w) | [Entering the House - FAITH](https://siivagunner.fandom.com/wiki/Entering_the_House_-_FAITH) | based |
 | [yyYvg8USxJE](https://www.youtube.com/watch?v=yyYvg8USxJE) | [Studying the Power Plant (OST Version) - Kirby Planet Robobot](https://siivagunner.fandom.com/wiki/Studying_the_Power_Plant_(OST_Version)_-_Kirby_Planet_Robobot) | based |
 | [n4NliYU8Oec](https://www.youtube.com/watch?v=n4NliYU8Oec) | [Ending - Breaking the Thing at the Mall](https://siivagunner.fandom.com/wiki/Ending_-_Breaking_the_Thing_at_the_Mall) | based |
-| [a59dBpAkQxc](https://www.youtube.com/watch?v=a59dBpAkQxc) | [Jet Set Groove #2 - Jet Set Radio](https://siivagunner.fandom.com/wiki/Jet_Set_Groove_#2_-_Jet_Set_Radio) | based |
+| [a59dBpAkQxc](https://www.youtube.com/watch?v=a59dBpAkQxc) | [Jet Set Groove #2 - Jet Set Radio](https://siivagunner.fandom.com/wiki/Jet_Set_Groove_2_-_Jet_Set_Radio) | based |
 | [yC_SRnn61H0](https://www.youtube.com/watch?v=yC_SRnn61H0) | [Once Upon a Time (Genocide Mix) - Undertale](https://siivagunner.fandom.com/wiki/Once_Upon_a_Time_(Genocide_Mix)_-_Undertale) | based |
 | [A5TXomTxPA8](https://www.youtube.com/watch?v=A5TXomTxPA8) | [The Midnight Train - A Dance of Fire and Ice](https://siivagunner.fandom.com/wiki/The_Midnight_Train_-_A_Dance_of_Fire_and_Ice) | based |
 | [VtUzxiQctt8](https://www.youtube.com/watch?v=VtUzxiQctt8) | [Music Maker 3 (In-Game Version) - Mario Paint](https://siivagunner.fandom.com/wiki/Music_Maker_3_(In-Game_Version)_-_Mario_Paint) | based |
@@ -1253,7 +1253,7 @@
 | [wsJ0uCdL8dg](https://www.youtube.com/watch?v=wsJ0uCdL8dg) | [Dr. Light - Mega Man X](https://siivagunner.fandom.com/wiki/Dr._Light_-_Mega_Man_X) | based |
 | [6sKWPuFDF1w](https://www.youtube.com/watch?v=6sKWPuFDF1w) | [Relic Song - Pokémon Black & White](https://siivagunner.fandom.com/wiki/Relic_Song_-_Pokémon_Black_&_White) | based |
 | [9SDwe3bGitk](https://www.youtube.com/watch?v=9SDwe3bGitk) | [Bonus Area (NTSC Version) - New Super Mario Bros.](https://siivagunner.fandom.com/wiki/Bonus_Area_(NTSC_Version)_-_New_Super_Mario_Bros.) | based |
-| [P__AEeHogSc](https://www.youtube.com/watch?v=P__AEeHogSc) | [Main Menu #02 - Saw II: Flesh & Blood](https://siivagunner.fandom.com/wiki/Main_Menu_#02_-_Saw_II:_Flesh_&_Blood) | based |
+| [P__AEeHogSc](https://www.youtube.com/watch?v=P__AEeHogSc) | [Main Menu #02 - Saw II: Flesh & Blood](https://siivagunner.fandom.com/wiki/Main_Menu_02_-_Saw_II:_Flesh_&_Blood) | based |
 | [_Dm4doGRc9U](https://www.youtube.com/watch?v=_Dm4doGRc9U) | [Malo Mart (Alpha Mix) - The Legend of Zelda: Twilight Princess](https://siivagunner.fandom.com/wiki/Malo_Mart_(Alpha_Mix)_-_The_Legend_of_Zelda:_Twilight_Princess) | based |
 | [V2RT8zSB2mo](https://www.youtube.com/watch?v=V2RT8zSB2mo) | [Rude Buster (Beta Mix) - Deltarune](https://siivagunner.fandom.com/wiki/Rude_Buster_(Beta_Mix)_-_Deltarune) | based |
 | [R7TLZnDYtJA](https://www.youtube.com/watch?v=R7TLZnDYtJA) | [Foxyden - Lonely Wolf Treat](https://siivagunner.fandom.com/wiki/Foxyden_-_Lonely_Wolf_Treat) | based |
@@ -1367,7 +1367,7 @@
 | [y1jKFJxTHOo](https://www.youtube.com/watch?v=y1jKFJxTHOo) | [Ending Theme (Mega Man 2) - Mega Man: The Wily Wars](https://siivagunner.fandom.com/wiki/Ending_Theme_(Mega_Man_2)_-_Mega_Man:_The_Wily_Wars) | based |
 | [h8wrghfoRWg](https://www.youtube.com/watch?v=h8wrghfoRWg) | [Home (Beta Mix) - FEZ](https://siivagunner.fandom.com/wiki/Home_(Beta_Mix)_-_FEZ) | based |
 | [4aajtc0KZTg](https://www.youtube.com/watch?v=4aajtc0KZTg) | [Battle!! - Xenoblade Chronicles 2 - Super Smash Bros. UItimate](https://siivagunner.fandom.com/wiki/Battle!!_-_Xenoblade_Chronicles_2_-_Super_Smash_Bros._UItimate) | based |
-| [ybE1r83s51o](https://www.youtube.com/watch?v=ybE1r83s51o) | [Jingle #2 - The Grinch (GBC)](https://siivagunner.fandom.com/wiki/Jingle_#2_-_The_Grinch_(GBC)) | based |
+| [ybE1r83s51o](https://www.youtube.com/watch?v=ybE1r83s51o) | [Jingle #2 - The Grinch (GBC)](https://siivagunner.fandom.com/wiki/Jingle_2_-_The_Grinch_(GBC)) | based |
 | [XAdmSBI5kJo](https://www.youtube.com/watch?v=XAdmSBI5kJo) | [Blue Paint - Portal 2](https://siivagunner.fandom.com/wiki/Blue_Paint_-_Portal_2) | based |
 | [sQqgAcaRDqE](https://www.youtube.com/watch?v=sQqgAcaRDqE) | [Ray of Hope (Alpha Mix) - Corpse Party: Blood Covered](https://siivagunner.fandom.com/wiki/Ray_of_Hope_(Alpha_Mix)_-_Corpse_Party:_Blood_Covered) | based |
 | [4iUjlkA44Yo](https://www.youtube.com/watch?v=4iUjlkA44Yo) | [Mini-Game Round Clear - New Super Mario Bros.](https://siivagunner.fandom.com/wiki/Mini-Game_Round_Clear_-_New_Super_Mario_Bros.) | based |
@@ -1587,7 +1587,7 @@
 | [VwTZ-K_XIWc](https://www.youtube.com/watch?v=VwTZ-K_XIWc) | [Stage Theme A - Wordtris](https://siivagunner.fandom.com/wiki/Stage_Theme_A_-_Wordtris) | based |
 | [7VdE-ckX8IM](https://www.youtube.com/watch?v=7VdE-ckX8IM) | [Main Theme - Taiwan 2001](https://siivagunner.fandom.com/wiki/Main_Theme_-_Taiwan_2001) | based |
 | [Og-z8nKJUiE](https://www.youtube.com/watch?v=Og-z8nKJUiE) | [Float Islands (Alpha Mix) - Kirby Super Star](https://siivagunner.fandom.com/wiki/Float_Islands_(Alpha_Mix)_-_Kirby_Super_Star) | based |
-| [p12Ymx-pbDM](https://www.youtube.com/watch?v=p12Ymx-pbDM) | [#FE11C5 (Beta Mix) - 2](https://siivagunner.fandom.com/wiki/#FE11C5_(Beta_Mix)_-_2) | based |
+| [p12Ymx-pbDM](https://www.youtube.com/watch?v=p12Ymx-pbDM) | [#FE11C5 (Beta Mix) - 2](https://siivagunner.fandom.com/wiki/FE11C5_(Beta_Mix)_-_2) | based |
 | [lSWH8DoOL4Q](https://www.youtube.com/watch?v=lSWH8DoOL4Q) | [Casual Bongos (Alpha Mix) - Five Nights at Freddy's: Sister Location](https://siivagunner.fandom.com/wiki/Casual_Bongos_(Alpha_Mix)_-_Five_Nights_at_Freddy's:_Sister_Location) | based |
 | [AZbYvK6qLjY](https://www.youtube.com/watch?v=AZbYvK6qLjY) | [S3 Invincible (OST Version) - Sonic the Hedgehog 3 & Knuckles](https://siivagunner.fandom.com/wiki/S3_Invincible_(OST_Version)_-_Sonic_the_Hedgehog_3_&_Knuckles) | based |
 | [WIiV_6_j9Pg](https://www.youtube.com/watch?v=WIiV_6_j9Pg) | [The Neon Sign World - Yume Nikki](https://siivagunner.fandom.com/wiki/The_Neon_Sign_World_-_Yume_Nikki) | based |
@@ -1771,7 +1771,7 @@
 | [YES00MZqw_w](https://www.youtube.com/watch?v=YES00MZqw_w) | [Viridian Forest (Unreleased Version) - Pokémon HeartGold & SoulSilver](https://siivagunner.fandom.com/wiki/Viridian_Forest_(Unreleased_Version)_-_Pokémon_HeartGold_&_SoulSilver) | based |
 | [brPZHTj2cZY](https://www.youtube.com/watch?v=brPZHTj2cZY) | [Runaway Five to the Rescue! - EarthBound](https://siivagunner.fandom.com/wiki/Runaway_Five_to_the_Rescue!_-_EarthBound) | based |
 | [a8qCUFjGaYY](https://www.youtube.com/watch?v=a8qCUFjGaYY) | [Akrillic (Newly Discovered Version) - Plok](https://siivagunner.fandom.com/wiki/Akrillic_(Newly_Discovered_Version)_-_Plok) | based |
-| [pZhZY2fS8Zs](https://www.youtube.com/watch?v=pZhZY2fS8Zs) | [BGM #04 (Unused Version) - Simple DS Series Vol. 1 - The Mahjong](https://siivagunner.fandom.com/wiki/BGM_#04_(Unused_Version)_-_Simple_DS_Series_Vol._1_-_The_Mahjong) | based |
+| [pZhZY2fS8Zs](https://www.youtube.com/watch?v=pZhZY2fS8Zs) | [BGM #04 (Unused Version) - Simple DS Series Vol. 1 - The Mahjong](https://siivagunner.fandom.com/wiki/BGM_04_(Unused_Version)_-_Simple_DS_Series_Vol._1_-_The_Mahjong) | based |
 | [dKbyDbuqAxU](https://www.youtube.com/watch?v=dKbyDbuqAxU) | [Inside the Dungeon - EarthBound](https://siivagunner.fandom.com/wiki/Inside_the_Dungeon_-_EarthBound) | based |
 | [vWsTZfVw8_s](https://www.youtube.com/watch?v=vWsTZfVw8_s) | [Beyond the Deep Blue Sea (Alpha Mix) - Final Fantasy V](https://siivagunner.fandom.com/wiki/Beyond_the_Deep_Blue_Sea_(Alpha_Mix)_-_Final_Fantasy_V) | based |
 | [8C8OUstU4Yg](https://www.youtube.com/watch?v=8C8OUstU4Yg) | [It's Pronounced "Rules" (Beta Mix) - Deltarune](https://siivagunner.fandom.com/wiki/It's_Pronounced_"Rules"_(Beta_Mix)_-_Deltarune) | based |
@@ -2105,7 +2105,7 @@
 | [CeIfIEVF94g](https://www.youtube.com/watch?v=CeIfIEVF94g) | [Unfounded Revenge / Smashing Song of Praise (US Version) - Super Smash Bros. Brawl](https://siivagunner.fandom.com/wiki/Unfounded_Revenge_/_Smashing_Song_of_Praise_(US_Version)_-_Super_Smash_Bros._Brawl) | based |
 | [TOdoF6xttWg](https://www.youtube.com/watch?v=TOdoF6xttWg) | [Online Practice Stage (In-Game Version) - Super Smash Bros. Brawl](https://siivagunner.fandom.com/wiki/Online_Practice_Stage_(In-Game_Version)_-_Super_Smash_Bros._Brawl) | based |
 | [tZCUT67-BBg](https://www.youtube.com/watch?v=tZCUT67-BBg) | [Special Battle Theme - Penny-Punching Princess](https://siivagunner.fandom.com/wiki/Special_Battle_Theme_-_Penny-Punching_Princess) | based |
-| [8GU7MfV_1TQ](https://www.youtube.com/watch?v=8GU7MfV_1TQ) | [Jingle #01 - Test Drive le Mans](https://siivagunner.fandom.com/wiki/Jingle_#01_-_Test_Drive_le_Mans) | based |
+| [8GU7MfV_1TQ](https://www.youtube.com/watch?v=8GU7MfV_1TQ) | [Jingle #01 - Test Drive le Mans](https://siivagunner.fandom.com/wiki/Jingle_01_-_Test_Drive_le_Mans) | based |
 | [m4wGcSAa7xg](https://www.youtube.com/watch?v=m4wGcSAa7xg) | [Nuts and Bolts (Short Version) - Super Bomberman 5](https://siivagunner.fandom.com/wiki/Nuts_and_Bolts_(Short_Version)_-_Super_Bomberman_5) | based |
 | [_dIXd0Q1gWs](https://www.youtube.com/watch?v=_dIXd0Q1gWs) | [Family Matters; 2nd Movement - MOTHER 3](https://siivagunner.fandom.com/wiki/Family_Matters;_2nd_Movement_-_MOTHER_3) | based |
 | [PR9KL_Fffaw](https://www.youtube.com/watch?v=PR9KL_Fffaw) | [Detroit - Test Drive le Mans](https://siivagunner.fandom.com/wiki/Detroit_-_Test_Drive_le_Mans) | based |
@@ -2205,7 +2205,7 @@
 | [HRlE6qo_H_4](https://www.youtube.com/watch?v=HRlE6qo_H_4) | [7 YEARS LATER AND WE STILL JAMMIN'](https://siivagunner.fandom.com/wiki/7_YEARS_LATER_AND_WE_STILL_JAMMIN') | based |
 | [o7a8jZZoSoA](https://www.youtube.com/watch?v=o7a8jZZoSoA) | [Athletic Cartoons](https://siivagunner.fandom.com/wiki/Athletic_Cartoons) | based |
 | [Cc2CaR1CUck](https://www.youtube.com/watch?v=Cc2CaR1CUck) | [Powerful Mario (In-Game Version) - Super Mario 64 DS](https://siivagunner.fandom.com/wiki/Powerful_Mario_(In-Game_Version)_-_Super_Mario_64_DS) | based |
-| [VZb90CC7mY0](https://www.youtube.com/watch?v=VZb90CC7mY0) | [Jingle #2 - Simple DS Series Vol. 1 - The Mahjong](https://siivagunner.fandom.com/wiki/Jingle_#2_-_Simple_DS_Series_Vol._1_-_The_Mahjong) | based |
+| [VZb90CC7mY0](https://www.youtube.com/watch?v=VZb90CC7mY0) | [Jingle #2 - Simple DS Series Vol. 1 - The Mahjong](https://siivagunner.fandom.com/wiki/Jingle_2_-_Simple_DS_Series_Vol._1_-_The_Mahjong) | based |
 | [1XycZ_o_lfA](https://www.youtube.com/watch?v=1XycZ_o_lfA) | [Break the Targets (NTSC Version) - Super Smash Bros. Melee](https://siivagunner.fandom.com/wiki/Break_the_Targets_(NTSC_Version)_-_Super_Smash_Bros._Melee) | based |
 | [jCvxwjzc4-I](https://www.youtube.com/watch?v=jCvxwjzc4-I) | [Circus (Delta Variant) - Five Nights at Freddy's](https://siivagunner.fandom.com/wiki/Circus_(Delta_Variant)_-_Five_Nights_at_Freddy's) | based |
 | [ZDlJpiGf0q4](https://www.youtube.com/watch?v=ZDlJpiGf0q4) | [The Legend of Zelda: Battle Quest ~ Gate - Nintendo Land](https://siivagunner.fandom.com/wiki/The_Legend_of_Zelda:_Battle_Quest_~_Gate_-_Nintendo_Land) | based |
@@ -2565,7 +2565,7 @@
 | [AVo9P7jmymA](https://www.youtube.com/watch?v=AVo9P7jmymA) | [Friday Theme (Update 2.3) - 3008](https://siivagunner.fandom.com/wiki/Friday_Theme_(Update_2.3)_-_3008) | based |
 | [DNLHYbL6nA4](https://www.youtube.com/watch?v=DNLHYbL6nA4) | [World Map (OST Version) - The 7th Saga](https://siivagunner.fandom.com/wiki/World_Map_(OST_Version)_-_The_7th_Saga) | based |
 | [Eg7Q0YUtmLo](https://www.youtube.com/watch?v=Eg7Q0YUtmLo) | [Dwelling of Locks - Dwelling of Locks](https://siivagunner.fandom.com/wiki/Dwelling_of_Locks_-_Dwelling_of_Locks) | based |
-| [q9djN3MQbzw](https://www.youtube.com/watch?v=q9djN3MQbzw) | [Circus (#### Mix) - Five Nights at Freddy's](https://siivagunner.fandom.com/wiki/Circus_(####_Mix)_-_Five_Nights_at_Freddy's) | based |
+| [q9djN3MQbzw](https://www.youtube.com/watch?v=q9djN3MQbzw) | [Circus (#### Mix) - Five Nights at Freddy's](https://siivagunner.fandom.com/wiki/Circus_(_Mix)_-_Five_Nights_at_Freddy's) | based |
 | [RP3ad_7FQjM](https://www.youtube.com/watch?v=RP3ad_7FQjM) | [POSSESSION - nico's nextbots](https://siivagunner.fandom.com/wiki/POSSESSION_-_nico's_nextbots) | based |
 | [ziCrlq7FZcE](https://www.youtube.com/watch?v=ziCrlq7FZcE) | [Almost Closing Time - Work at a Pizza Place](https://siivagunner.fandom.com/wiki/Almost_Closing_Time_-_Work_at_a_Pizza_Place) | based |
 | [7IovKn9lXEo](https://www.youtube.com/watch?v=7IovKn9lXEo) | [Horror (Original Mix) - ROBLOX](https://siivagunner.fandom.com/wiki/Horror_(Original_Mix)_-_ROBLOX) | based |
@@ -2902,7 +2902,7 @@
 | [fLsWUYiGEbo](https://www.youtube.com/watch?v=fLsWUYiGEbo) | [Toadster Croak - Garten of Banban 4](https://siivagunner.fandom.com/wiki/Toadster_Croak_-_Garten_of_Banban_4) | based |
 | [2vhMxJ-2Pek](https://www.youtube.com/watch?v=2vhMxJ-2Pek) | [Kingdom Doomed - Garten of Banban 4](https://siivagunner.fandom.com/wiki/Kingdom_Doomed_-_Garten_of_Banban_4) | based |
 | [9c3GQTmSnOY](https://www.youtube.com/watch?v=9c3GQTmSnOY) | [Menu Theme - Mega Man Maker](https://siivagunner.fandom.com/wiki/Menu_Theme_-_Mega_Man_Maker) | based |
-| [_gvgwYrjvyQ](https://www.youtube.com/watch?v=_gvgwYrjvyQ) | [Jet Set Groove #1 - Jet Set Radio](https://siivagunner.fandom.com/wiki/Jet_Set_Groove_#1_-_Jet_Set_Radio) | based |
+| [_gvgwYrjvyQ](https://www.youtube.com/watch?v=_gvgwYrjvyQ) | [Jet Set Groove #1 - Jet Set Radio](https://siivagunner.fandom.com/wiki/Jet_Set_Groove_1_-_Jet_Set_Radio) | based |
 | [nVyFlqqyRJ4](https://www.youtube.com/watch?v=nVyFlqqyRJ4) | [Round Clear - Wario's Woods (NES)](https://siivagunner.fandom.com/wiki/Round_Clear_-_Wario's_Woods_(NES)) | based |
 | [myN7f1OnVCs](https://www.youtube.com/watch?v=myN7f1OnVCs) | [Course Clear (Nintendo Switch Online Version) - Super Mario Bros 3](https://siivagunner.fandom.com/wiki/Course_Clear_(Nintendo_Switch_Online_Version)_-_Super_Mario_Bros_3) | based |
 | [A8Qf_bdnrlo](https://www.youtube.com/watch?v=A8Qf_bdnrlo) | [In-Game 3 - Red Ball 4 Vol.1](https://siivagunner.fandom.com/wiki/In-Game_3_-_Red_Ball_4_Vol.1) | based |
@@ -3076,7 +3076,7 @@
 | [eBPJLhgI5CA](https://www.youtube.com/watch?v=eBPJLhgI5CA) | [Level/Boss - Marzipan Beef Reverser](https://siivagunner.fandom.com/wiki/Level/Boss_-_Marzipan_Beef_Reverser) | based |
 | [q7O_Ed5IwSE](https://www.youtube.com/watch?v=q7O_Ed5IwSE) | [Electric Dreams - Hotline Miami](https://siivagunner.fandom.com/wiki/Electric_Dreams_-_Hotline_Miami) | based |
 | [3MlZzbug-4k](https://www.youtube.com/watch?v=3MlZzbug-4k) | [Music: Electro-fied! - Fortnite](https://siivagunner.fandom.com/wiki/Music:_Electro-fied!_-_Fortnite) | based |
-| [-UbqfKYoMew](https://www.youtube.com/watch?v=-UbqfKYoMew) | [BGM #01 (Extended Version) - Simple DS Series Vol. 1 - The Mahjong](https://siivagunner.fandom.com/wiki/BGM_#01_(Extended_Version)_-_Simple_DS_Series_Vol._1_-_The_Mahjong) | based |
+| [-UbqfKYoMew](https://www.youtube.com/watch?v=-UbqfKYoMew) | [BGM #01 (Extended Version) - Simple DS Series Vol. 1 - The Mahjong](https://siivagunner.fandom.com/wiki/BGM_01_(Extended_Version)_-_Simple_DS_Series_Vol._1_-_The_Mahjong) | based |
 | [MNpGtkA-lWo](https://www.youtube.com/watch?v=MNpGtkA-lWo) | [Circus (Original Mix) - Five Nights at Freddy's](https://siivagunner.fandom.com/wiki/Circus_(Original_Mix)_-_Five_Nights_at_Freddy's) | based |
 | [8U5dIZVH-z0](https://www.youtube.com/watch?v=8U5dIZVH-z0) | [Crazy 8 - GamePigeon](https://siivagunner.fandom.com/wiki/Crazy_8_-_GamePigeon) | based |
 | [-g_JJyhsYvw](https://www.youtube.com/watch?v=-g_JJyhsYvw) | [Meltdown 2 (Beta Version) - Cave Story](https://siivagunner.fandom.com/wiki/Meltdown_2_(Beta_Version)_-_Cave_Story) | based |
@@ -3273,7 +3273,7 @@
 | [OFREGWJsjr4](https://www.youtube.com/watch?v=OFREGWJsjr4) | [Balrog's Theme (Steam Version) - Cave Story](https://siivagunner.fandom.com/wiki/Balrog's_Theme_(Steam_Version)_-_Cave_Story) | based |
 | [lIsQlLidOms](https://www.youtube.com/watch?v=lIsQlLidOms) | [Story Music Box - Yoshi's Island](https://siivagunner.fandom.com/wiki/Story_Music_Box_-_Yoshi's_Island) | based |
 | [gDrX2wYVqb4](https://www.youtube.com/watch?v=gDrX2wYVqb4) | [Coffee Break Music (Unused Version) - Pac-Man](https://siivagunner.fandom.com/wiki/Coffee_Break_Music_(Unused_Version)_-_Pac-Man) | based |
-| [BjN1N-pLpeE](https://www.youtube.com/watch?v=BjN1N-pLpeE) | [BGM #03 - Simple DS Series Vol. 26 - The Quiz 30000-Mon](https://siivagunner.fandom.com/wiki/BGM_#03_-_Simple_DS_Series_Vol._26_-_The_Quiz_30000-Mon) | based |
+| [BjN1N-pLpeE](https://www.youtube.com/watch?v=BjN1N-pLpeE) | [BGM #03 - Simple DS Series Vol. 26 - The Quiz 30000-Mon](https://siivagunner.fandom.com/wiki/BGM_03_-_Simple_DS_Series_Vol._26_-_The_Quiz_30000-Mon) | based |
 | [gxpsEadG9Q8](https://www.youtube.com/watch?v=gxpsEadG9Q8) | [Emote: Work It (Alpha Mix) - Fortnite](https://siivagunner.fandom.com/wiki/Emote:_Work_It_(Alpha_Mix)_-_Fortnite) | based |
 | [TGxOAtIt670](https://www.youtube.com/watch?v=TGxOAtIt670) | [Dust (Beta Mix) - Hotline Miami 2: Wrong Number](https://siivagunner.fandom.com/wiki/Dust_(Beta_Mix)_-_Hotline_Miami_2:_Wrong_Number) | based |
 | [cuMKqw5fmQc](https://www.youtube.com/watch?v=cuMKqw5fmQc) | [Parental Controls - Maroon GO](https://siivagunner.fandom.com/wiki/Parental_Controls_-_Maroon_GO) | based |
@@ -3387,7 +3387,7 @@
 | [bjvQvmUPBXw](https://www.youtube.com/watch?v=bjvQvmUPBXw) | [Mii Channel (Alpha Mix) - Nintendo Wii Music](https://siivagunner.fandom.com/wiki/Mii_Channel_(Alpha_Mix)_-_Nintendo_Wii_Music) | based |
 | [XJzrFVfYkdw](https://www.youtube.com/watch?v=XJzrFVfYkdw) | [Challenge Completed - BitLife](https://siivagunner.fandom.com/wiki/Challenge_Completed_-_BitLife) | based |
 | [RCO8ib6_8gM](https://www.youtube.com/watch?v=RCO8ib6_8gM) | [Worldmap - Super Mario Flash](https://siivagunner.fandom.com/wiki/Worldmap_-_Super_Mario_Flash) | based |
-| [Hd1OUS2cjNY](https://www.youtube.com/watch?v=Hd1OUS2cjNY) | [Jingle #14 - Yume Neko DS](https://siivagunner.fandom.com/wiki/Jingle_#14_-_Yume_Neko_DS) | based |
+| [Hd1OUS2cjNY](https://www.youtube.com/watch?v=Hd1OUS2cjNY) | [Jingle #14 - Yume Neko DS](https://siivagunner.fandom.com/wiki/Jingle_14_-_Yume_Neko_DS) | based |
 | [uirjern-G2E](https://www.youtube.com/watch?v=uirjern-G2E) | [Diary Menu - Sega Bass Fishing](https://siivagunner.fandom.com/wiki/Diary_Menu_-_Sega_Bass_Fishing) | based |
 | [H4Q52ggccGs](https://www.youtube.com/watch?v=H4Q52ggccGs) | [Chapter Start - Mizuiro Blood](https://siivagunner.fandom.com/wiki/Chapter_Start_-_Mizuiro_Blood) | based |
 | [rVO1PMSQhYE](https://www.youtube.com/watch?v=rVO1PMSQhYE) | [Result Loop - Picross 3D](https://siivagunner.fandom.com/wiki/Result_Loop_-_Picross_3D) | based |
