@@ -1,5 +1,6 @@
 | ID | Title | "Based" Status |
 | -- | ----- | -------------- |
+| [VQ1IJFufrp8](https://www.youtube.com/watch?v=VQ1IJFufrp8) | [Vib Ribbon Blues (Short Version) - Vib-Ribbon](https://siivagunner.fandom.com/wiki/Vib_Ribbon_Blues_\(Short_Version\)_-_Vib-Ribbon) | based |
 | [sK9fxsaq5UQ](https://www.youtube.com/watch?v=sK9fxsaq5UQ) | [Title Screen - e-Reader](https://siivagunner.fandom.com/wiki/Title_Screen_-_e-Reader) | based |
 | [KKvpoBLJk5k](https://www.youtube.com/watch?v=KKvpoBLJk5k) | [Organ Demo - Undertale Yellow](https://siivagunner.fandom.com/wiki/Organ_Demo_-_Undertale_Yellow) | based |
 | [jPmhxtZGDW0](https://www.youtube.com/watch?v=jPmhxtZGDW0) | [Main Theme (OST Version) - Futurama](https://siivagunner.fandom.com/wiki/Main_Theme_\(OST_Version\)_-_Futurama) | based |
@@ -3499,4 +3500,3 @@
 | [OPYtvEpEJzg](https://www.youtube.com/watch?v=OPYtvEpEJzg) | [Rec Room (Beta Mix) - Super Mario 64 DS](https://ttgd.fandom.com/wiki/Rec_Room_\(Beta_Mix\)_-_Super_Mario_64_DS) | based |
 | [qr3hLlzJHUc](https://www.youtube.com/watch?v=qr3hLlzJHUc) | [Outlaw! - Pokémon Mystery Dungeon: Explorers of Time & Darkness](https://ttgd.fandom.com/wiki/Outlaw!_-_Pokémon_Mystery_Dungeon:_Explorers_of_Time_&_Darkness) | based |
 | [mcM8-el2qtE](https://www.youtube.com/watch?v=mcM8-el2qtE) | [Corruption - Terraria](https://ttgd.fandom.com/wiki/Corruption_-_Terraria) | based |
-| [mnt8A_-TkKc](https://www.youtube.com/watch?v=mnt8A_-TkKc) | [Creative Exercise - Mario Paint](https://ttgd.fandom.com/wiki/Creative_Exercise_-_Mario_Paint) | based |
