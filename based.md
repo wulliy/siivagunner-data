@@ -1,5 +1,9 @@
 | ID | Title | "Based" Status |
 | -- | ----- | -------------- |
+| [ICU9FVo6f5Q](https://www.youtube.com/watch?v=ICU9FVo6f5Q) | [Main Theme (Credit Card Entry) - Wii Shop Channel](https://siivagunner.fandom.com/wiki/Main_Theme_\(Credit_Card_Entry\)_-_Wii_Shop_Channel) | based |
+| [Wi4KIBWfkEY](https://www.youtube.com/watch?v=Wi4KIBWfkEY) | [Life is PIANO - Arcaea](https://siivagunner.fandom.com/wiki/Life_is_PIANO_-_Arcaea) | based |
+| [yRaoF9GAhkU](https://www.youtube.com/watch?v=yRaoF9GAhkU) | [Graydale Lake (JP Version) - Ultimate Angler / StreetPass Fishing](https://siivagunner.fandom.com/wiki/Graydale_Lake_\(JP_Version\)_-_Ultimate_Angler_/_StreetPass_Fishing) | based |
+| [O18kAjHa7wM](https://www.youtube.com/watch?v=O18kAjHa7wM) | [BGM #11 - Yume Neko DS](https://siivagunner.fandom.com/wiki/BGM_11_-_Yume_Neko_DS) | based |
 | [Ujf6Qxj5aVQ](https://www.youtube.com/watch?v=Ujf6Qxj5aVQ) | [Positive Force (Nintendo 3DS Version) - VVVVVV](https://siivagunner.fandom.com/wiki/Positive_Force_\(Nintendo_3DS_Version\)_-_VVVVVV) | based |
 | [mPjMJoHmF7I](https://www.youtube.com/watch?v=mPjMJoHmF7I) | [Wonder of Wonder - Wonder of Wonder Art](https://siivagunner.fandom.com/wiki/Wonder_of_Wonder_-_Wonder_of_Wonder_Art) | based |
 | [VQ1IJFufrp8](https://www.youtube.com/watch?v=VQ1IJFufrp8) | [Vib Ribbon Blues (Short Version) - Vib-Ribbon](https://siivagunner.fandom.com/wiki/Vib_Ribbon_Blues_\(Short_Version\)_-_Vib-Ribbon) | based |
@@ -3496,7 +3500,3 @@
 | [Hf4yfoWnJ0Y](https://www.youtube.com/watch?v=Hf4yfoWnJ0Y) | [Final Destination (Delta Mix) - Super Smash Bros.](https://siivagunner.fandom.com/wiki/Final_Destination_\(Delta_Mix\)_-_Super_Smash_Bros.) | based |
 | [eiITzxED5Sw](https://www.youtube.com/watch?v=eiITzxED5Sw) | [Fire Yoshi (Beta Mix) - Super Mario 64 DS](https://ttgd.fandom.com/wiki/Fire_Yoshi_\(Beta_Mix\)_-_Super_Mario_64_DS) | based |
 | [2Qd8aPQjofg](https://www.youtube.com/watch?v=2Qd8aPQjofg) | [Rock Bottom - SpongeBob SquarePants: Legend of the Lost Spatula](https://ttgd.fandom.com/wiki/Rock_Bottom_-_SpongeBob_SquarePants:_Legend_of_the_Lost_Spatula) | based |
-| [zojnjKCUE4M](https://www.youtube.com/watch?v=zojnjKCUE4M) | [Gadget Room (Secret Mix) - Club Penguin: Elite Penguin Force](https://ttgd.fandom.com/wiki/Gadget_Room_\(Secret_Mix\)_-_Club_Penguin:_Elite_Penguin_Force) | based |
-| [I1fM5j9o-gE](https://www.youtube.com/watch?v=I1fM5j9o-gE) | [Gadget Room (asduihasidg78gA*&^ Mix) - Club Penguin: Elite Penguin Force](https://ttgd.fandom.com/wiki/Gadget_Room_\(asduihasidg78gA*&^_Mix\)_-_Club_Penguin:_Elite_Penguin_Force) | based |
-| [lMDhekOkGiA](https://www.youtube.com/watch?v=lMDhekOkGiA) | [Katsusha Retro (Beta Mix) - Tetris DS (THQ) (Unreleased)](https://ttgd.fandom.com/wiki/Katsusha_Retro_\(Beta_Mix\)_-_Tetris_DS_\(THQ\)_\(Unreleased\)) | based |
-| [OPYtvEpEJzg](https://www.youtube.com/watch?v=OPYtvEpEJzg) | [Rec Room (Beta Mix) - Super Mario 64 DS](https://ttgd.fandom.com/wiki/Rec_Room_\(Beta_Mix\)_-_Super_Mario_64_DS) | based |
