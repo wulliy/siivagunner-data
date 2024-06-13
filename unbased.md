@@ -1,5 +1,7 @@
 | ID | Title | "Based" Status |
 | -- | ----- | -------------- |
+| [rAM9xcMf9cc](https://www.youtube.com/watch?v=rAM9xcMf9cc) | [Player's Score - Touhou 11: Subterranean Animism](https://siivagunner.fandom.com/wiki/Player's_Score_-_Touhou_11:_Subterranean_Animism) | unbased |
+| [EpFekT8chxk](https://www.youtube.com/watch?v=EpFekT8chxk) | [Laugh & Peace - Vib-Ribbon](https://siivagunner.fandom.com/wiki/Laugh_&_Peace_-_Vib-Ribbon) | unbased |
 | [42-fwNW6qGk](https://www.youtube.com/watch?v=42-fwNW6qGk) | [Berdly (In-Game Version) - Deltarune](https://siivagunner.fandom.com/wiki/Berdly_\(In-Game_Version\)_-_Deltarune) | unbased |
 | [IVV3HyUUseg](https://www.youtube.com/watch?v=IVV3HyUUseg) | [Laboratory - Changed](https://siivagunner.fandom.com/wiki/Laboratory_-_Changed) | unbased |
 | [IBaOR2_cQdE](https://www.youtube.com/watch?v=IBaOR2_cQdE) | [Your Team Won (Beta Mix) - Team Fortress 2](https://siivagunner.fandom.com/wiki/Your_Team_Won_\(Beta_Mix\)_-_Team_Fortress_2) | unbased |
@@ -98,5 +100,3 @@
 | [y-DauEqdwjY](https://www.youtube.com/watch?v=y-DauEqdwjY) | [Fireflies - Rock Band 3](https://siivagunner.fandom.com/wiki/Fireflies_-_Rock_Band_3) | unbased |
 | [ItvHTWxGvrg](https://www.youtube.com/watch?v=ItvHTWxGvrg) | [Made a Word! (HIP) - LeapFrog Word Whammer Fridge Phonics Set](https://siivagunner.fandom.com/wiki/Made_a_Word!_\(HIP\)_-_LeapFrog_Word_Whammer_Fridge_Phonics_Set) | unbased |
 | [FpJjkvD3yxc](https://www.youtube.com/watch?v=FpJjkvD3yxc) | [Planet Wisp - Act 1 - Sonic Colors (Wii)](https://siivagunner.fandom.com/wiki/Planet_Wisp_-_Act_1_-_Sonic_Colors_\(Wii\)) | unbased |
-| [Hk38XLxYAKY](https://www.youtube.com/watch?v=Hk38XLxYAKY) | [Sparring Ring (Beta Mix) - ARMS](https://siivagunner.fandom.com/wiki/Sparring_Ring_\(Beta_Mix\)_-_ARMS) | unbased |
-| [3Wb-yoH8LLY](https://www.youtube.com/watch?v=3Wb-yoH8LLY) | [Ninja College - ARMS](https://siivagunner.fandom.com/wiki/Ninja_College_-_ARMS) | unbased |
