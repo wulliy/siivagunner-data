@@ -1,5 +1,21 @@
 | ID | Title | "Based" Status |
 | -- | ----- | -------------- |
+| [gkqedoI52zs](https://www.youtube.com/watch?v=gkqedoI52zs) | [World A - Art of Balance](https://siivagunner.fandom.com/wiki/World_A_-_Art_of_Balance) | based |
+| [ouWsLFyNzn0](https://www.youtube.com/watch?v=ouWsLFyNzn0) | [Bowser's Castle - Mario & Luigi: Partners in Time](https://siivagunner.fandom.com/wiki/Bowser's_Castle_-_Mario_&_Luigi:_Partners_in_Time) | based |
+| [rKAT0WJZlCU](https://www.youtube.com/watch?v=rKAT0WJZlCU) | [Burning Town (In-Game Version) - Shantae: Risky's Revenge](https://siivagunner.fandom.com/wiki/Burning_Town_\(In-Game_Version\)_-_Shantae:_Risky's_Revenge) | based |
+| [3xQBmC_LquU](https://www.youtube.com/watch?v=3xQBmC_LquU) | [Pursuit ~ Cornered (Alpha Mix) - Phoenix Wright: Ace Attorney](https://ttgd.fandom.com/wiki/Pursuit_~_Cornered_\(Alpha_Mix\)_-_Phoenix_Wright:_Ace_Attorney) | based |
+| [HwnloXrQJ1Q](https://www.youtube.com/watch?v=HwnloXrQJ1Q) | [Agent K.K. (Aircheck) - Animal Crossing: Wild World](https://ttgd.fandom.com/wiki/Agent_K.K._\(Aircheck\)_-_Animal_Crossing:_Wild_World) | based |
+| [uTyzkB2o21w](https://www.youtube.com/watch?v=uTyzkB2o21w) | [Agent K.K. (Aircheck) - Animal Crossing: Wild World](https://siivagunner.fandom.com/wiki/Agent_K.K._\(Aircheck\)_-_Animal_Crossing:_Wild_World) | based |
+| [404WKWe1vaM](https://www.youtube.com/watch?v=404WKWe1vaM) | [Menu (Beta Mix) - Zoo Tycoon DS](https://siivagunner.fandom.com/wiki/Menu_\(Beta_Mix\)_-_Zoo_Tycoon_DS) | based |
+| [pj-YP8Kp-tc](https://www.youtube.com/watch?v=pj-YP8Kp-tc) | [We All Lift Together - Warframe](https://siivagunner.fandom.com/wiki/We_All_Lift_Together_-_Warframe) | based |
+| [Yxo-fbEifnM](https://www.youtube.com/watch?v=Yxo-fbEifnM) | [Time Trial Results (No Ranking) - Mario Kart DS](https://siivagunner.fandom.com/wiki/Time_Trial_Results_\(No_Ranking\)_-_Mario_Kart_DS) | based |
+| [jiYWx5tJSUM](https://www.youtube.com/watch?v=jiYWx5tJSUM) | [Enemy Approaching (Extended Version) (Short Version) - Undertale](https://siivagunner.fandom.com/wiki/Enemy_Approaching_\(Extended_Version\)_\(Short_Version\)_-_Undertale) | based |
+| [lSJqUxf2AlM](https://www.youtube.com/watch?v=lSJqUxf2AlM) | [Bowser's Theme (OST Version) - Super Mario 64 DS](https://siivagunner.fandom.com/wiki/Bowser's_Theme_\(OST_Version\)_-_Super_Mario_64_DS) | based |
+| [VR43zQahlzI](https://www.youtube.com/watch?v=VR43zQahlzI) | [Man (Extended Mix) - Deltarune](https://siivagunner.fandom.com/wiki/Man_\(Extended_Mix\)_-_Deltarune) | based |
+| [eCRP5yKcgK0](https://www.youtube.com/watch?v=eCRP5yKcgK0) | [Another Medium (PAL-M Version) - Undertale](https://siivagunner.fandom.com/wiki/Another_Medium_\(PAL-M_Version\)_-_Undertale) | based |
+| [gfM58ePBYTg](https://www.youtube.com/watch?v=gfM58ePBYTg) | [The Grand Finale (Alternate Version) - Mario & Luigi Bowser's Inside Story](https://siivagunner.fandom.com/wiki/The_Grand_Finale_\(Alternate_Version\)_-_Mario_&_Luigi_Bowser's_Inside_Story) | based |
+| [zO0XSXVtnL4](https://www.youtube.com/watch?v=zO0XSXVtnL4) | [Overflowing Emotions - Vib-Ribbon](https://siivagunner.fandom.com/wiki/Overflowing_Emotions_-_Vib-Ribbon) | based |
+| [3wT9xBfTNc8](https://www.youtube.com/watch?v=3wT9xBfTNc8) | [Super Mario 3D All-Stars Music SM64 Slider (Deluxe Mix)](https://siivagunner.fandom.com/wiki/Super_Mario_3D_All-Stars_Music_SM64_Slider_\(Deluxe_Mix\)) | based |
 | [ICU9FVo6f5Q](https://www.youtube.com/watch?v=ICU9FVo6f5Q) | [Main Theme (Credit Card Entry) - Wii Shop Channel](https://siivagunner.fandom.com/wiki/Main_Theme_\(Credit_Card_Entry\)_-_Wii_Shop_Channel) | based |
 | [Wi4KIBWfkEY](https://www.youtube.com/watch?v=Wi4KIBWfkEY) | [Life is PIANO - Arcaea](https://siivagunner.fandom.com/wiki/Life_is_PIANO_-_Arcaea) | based |
 | [yRaoF9GAhkU](https://www.youtube.com/watch?v=yRaoF9GAhkU) | [Graydale Lake (JP Version) - Ultimate Angler / StreetPass Fishing](https://siivagunner.fandom.com/wiki/Graydale_Lake_\(JP_Version\)_-_Ultimate_Angler_/_StreetPass_Fishing) | based |
@@ -3484,19 +3500,3 @@
 | [XfT5BQzQ0qw](https://www.youtube.com/watch?v=XfT5BQzQ0qw) | [Mii Channel (Alternate Version) - Nintendo Wii Music](https://siivagunner.fandom.com/wiki/Mii_Channel_\(Alternate_Version\)_-_Nintendo_Wii_Music) | based |
 | [HNvWb-9RQOo](https://www.youtube.com/watch?v=HNvWb-9RQOo) | [Fallen Down (Reprise) - Undertale](https://siivagunner.fandom.com/wiki/Fallen_Down_\(Reprise\)_-_Undertale) | based |
 | [hUa3eft8hlo](https://www.youtube.com/watch?v=hUa3eft8hlo) | [Snow Trekker (Beta Mix) - Club Penguin: Elite Penguin Force](https://siivagunner.fandom.com/wiki/Snow_Trekker_\(Beta_Mix\)_-_Club_Penguin:_Elite_Penguin_Force) | based |
-| [M6VgJjt9y8c](https://www.youtube.com/watch?v=M6VgJjt9y8c) | [SK Act 1 Boss (Unused Version) - Sonic the Hedgehog 3 & Knuckles](https://siivagunner.fandom.com/wiki/SK_Act_1_Boss_\(Unused_Version\)_-_Sonic_the_Hedgehog_3_&_Knuckles) | based |
-| [2Y7hmX82ZdA](https://www.youtube.com/watch?v=2Y7hmX82ZdA) | [Invincible (Hurry Up!) - Super Mario Bros. 3](https://siivagunner.fandom.com/wiki/Invincible_\(Hurry_Up!\)_-_Super_Mario_Bros._3) | based |
-| [29mU9XSOaG0](https://www.youtube.com/watch?v=29mU9XSOaG0) | [Café (OST Version) - Animal Crossing: Wild World](https://siivagunner.fandom.com/wiki/Café_\(OST_Version\)_-_Animal_Crossing:_Wild_World) | based |
-| [8v4AGUGdBzw](https://www.youtube.com/watch?v=8v4AGUGdBzw) | [Mine Cart Carnage (In-Game Version) - Donkey Kong 64](https://siivagunner.fandom.com/wiki/Mine_Cart_Carnage_\(In-Game_Version\)_-_Donkey_Kong_64) | based |
-| [Lsd0577I78o](https://www.youtube.com/watch?v=Lsd0577I78o) | [Title Theme - Super Mario Sunshine](https://siivagunner.fandom.com/wiki/Title_Theme_-_Super_Mario_Sunshine) | based |
-| [wfhMvhW3-z8](https://www.youtube.com/watch?v=wfhMvhW3-z8) | [Mysterious - Mario Paint](https://siivagunner.fandom.com/wiki/Mysterious_-_Mario_Paint) | based |
-| [8CJUnit4xIQ](https://www.youtube.com/watch?v=8CJUnit4xIQ) | [Happy Day in ROBLOXia - ROBLOX](https://siivagunner.fandom.com/wiki/Happy_Day_in_ROBLOXia_-_ROBLOX) | based |
-| [uXVgIdUa7FU](https://www.youtube.com/watch?v=uXVgIdUa7FU) | [Hip Hop - ROBLOX](https://siivagunner.fandom.com/wiki/Hip_Hop_-_ROBLOX) | based |
-| [UPjGCjpIaA4](https://www.youtube.com/watch?v=UPjGCjpIaA4) | [The Legend - Deltarune](https://siivagunner.fandom.com/wiki/The_Legend_-_Deltarune) | based |
-| [x00_UKLM6BM](https://www.youtube.com/watch?v=x00_UKLM6BM) | [Trainers' Eyes Meet (Ace Trainer) (Alternate Version) - Pokémon Diamond & Pearl](https://siivagunner.fandom.com/wiki/Trainers'_Eyes_Meet_\(Ace_Trainer\)_\(Alternate_Version\)_-_Pokémon_Diamond_&_Pearl) | based |
-| [_mJdsU6RxKo](https://www.youtube.com/watch?v=_mJdsU6RxKo) | [Uwa!!So Dank♫ - Basedtale](https://ttgd.fandom.com/wiki/Uwa!!So_Dank♫_-_Basedtale) | based |
-| [XZ5pDVNg1FU](https://www.youtube.com/watch?v=XZ5pDVNg1FU) | [The Skull Gang - Kirby Mass Attack](https://ttgd.fandom.com/wiki/The_Skull_Gang_-_Kirby_Mass_Attack) | based |
-| [dFT2TAQyyRY](https://www.youtube.com/watch?v=dFT2TAQyyRY) | [Disco Necropolis (Graveyard Stage) (Beta Mix) - Skeleton Boomerang](https://ttgd.fandom.com/wiki/Disco_Necropolis_\(Graveyard_Stage\)_\(Beta_Mix\)_-_Skeleton_Boomerang) | based |
-| [Hf4yfoWnJ0Y](https://www.youtube.com/watch?v=Hf4yfoWnJ0Y) | [Final Destination (Delta Mix) - Super Smash Bros.](https://siivagunner.fandom.com/wiki/Final_Destination_\(Delta_Mix\)_-_Super_Smash_Bros.) | based |
-| [eiITzxED5Sw](https://www.youtube.com/watch?v=eiITzxED5Sw) | [Fire Yoshi (Beta Mix) - Super Mario 64 DS](https://ttgd.fandom.com/wiki/Fire_Yoshi_\(Beta_Mix\)_-_Super_Mario_64_DS) | based |
-| [2Qd8aPQjofg](https://www.youtube.com/watch?v=2Qd8aPQjofg) | [Rock Bottom - SpongeBob SquarePants: Legend of the Lost Spatula](https://ttgd.fandom.com/wiki/Rock_Bottom_-_SpongeBob_SquarePants:_Legend_of_the_Lost_Spatula) | based |
